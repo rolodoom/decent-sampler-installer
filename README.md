@@ -17,6 +17,8 @@ The original Decent Sampler package **must be** downloaded manually on the same 
 - Download [Decent Sampler tar.gz](https://www.decentsamples.com/product/decent-sampler-plugin/)
 - Clone repo and execute install script and follow the instructions.
 
-  git clone https://github.com/rolodoom/decent-sampler-installer.git
-  cd decent-sampler-installer
-  chmod +x main.sh && ./main.sh
+```
+git clone https://github.com/rolodoom/decent-sampler-installer.git
+cd decent-sampler-installer
+chmod +x main.sh && ./main.sh
+```
