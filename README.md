@@ -10,7 +10,7 @@ This is an installer for some cool audio sampler software that I use on my Linux
 
 The original Decent Sampler package **must be** downloaded manually on the same directory before executing the install script.
 
-- Decent_Sampler-1.5.12-Linux-x86_64 [version 1.5.12]
+- Decent_Sampler-1.6.11-Linux-x86_64 [version 1.6.11]
 
 ## Usage
 
