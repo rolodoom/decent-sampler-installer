@@ -5,5 +5,6 @@ Exec=DecentSampler
 Terminal=false
 Type=Application
 Icon=DecentSampler
-Categories=Audio;X-Jack;Midi;X-MIDI;
-Keywords=Audio;Sound;Synth;Midi;Jack;
+Categories=AudioVideo;Audio;X-Jack;Midi;X-MIDI;
+Keywords=Audio;Sound;Sampler;Synth;Record;Midi;Jack;
+
