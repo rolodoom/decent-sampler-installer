@@ -69,7 +69,7 @@ Install () {
     sudo chmod +x "$APPBIN"/DecentSampler
 
     #usr/local/bin links
-    sudo ln -s "$APPBIN"/DecentSampler "/usr/local/bin/DecentSampler"
+    sudo ln -sf "$APPBIN"/DecentSampler "/usr/local/bin/DecentSampler"
 
     # copy .local files
     sudo cp -r usr/share /usr
